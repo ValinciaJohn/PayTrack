@@ -1,4 +1,4 @@
-# 🧑‍💻 Employee Attendance & Payroll Management System  
+# 🧑‍💻 PayTrack 
 
 ## 📊 Project Overview  
 This system is designed to efficiently manage employee attendance and payroll. Developed using **React.js** for the frontend, **Node.js** for the backend, and **MySQL** for the database, it helps monitor employee work hours, late arrivals, early departures, and absenteeism. The system ensures accurate payroll generation and provides a user-friendly interface for HR departments to manage and track attendance records seamlessly.
